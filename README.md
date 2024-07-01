@@ -45,6 +45,11 @@ ChatGPT provided some results. My suggestion is to start with a text adventure g
 * [Build A Text Adventure Game With JavaScript](https://www.youtube.com/watch?v=R1S_NhKkvGA)
 * [Are You Retro Enough? Text Adventure Engine Rebuilt in React](https://www.youtube.com/watch?v=V8_UnTnrn_g)
 
+## case 3 : A personal homepage or making a simple personal blog
+This would be more challenging, but it's also an option.  
+
+**These are some possible options, but they are not limits. Suggestion: Is there any everyday tool that needs to be developed? We can break it down into different stages based on the actual difficulty.**
+
 # appendix  
 Record some reference materials during the documentation writing process.  
 List of Teaching Tools Planned for Use :  
