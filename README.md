@@ -29,8 +29,13 @@ Students who complete the above courses are expected to have:
 4. Basic experience in using AI technology.
 5. This case also has some practical significance, as there are data analysts in Wellington whose job involves data visualization. Charts are the foundation of visualization.
   
-It can be divided into multiple sessions or take another form, such as a one-day or half-day boot camp, with the plan to complete the task in that time (the above courses are sufficient for the children to complete in half a day).  
+It can be divided into multiple sessions or take another form, such as a one-day or half-day boot camp, with the plan to complete the task in that time (the above courses are sufficient for the children to complete in half a day).   
+Try to summarize, We have three teaching methods:  
+1. Teach principles and knowledge first, then apply them.
+2. Demonstrate the complete process for children to follow.
+3. Use tools like ChatGPT to help children with programming and provide guidance.
 
+  
 ## case 2 : game
 For example, we can ask ChatGPT :  
 ```
