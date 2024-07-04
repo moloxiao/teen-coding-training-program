@@ -9,6 +9,7 @@ We will achieve this objective through the following steps:
 
 After completing this stage, the plan for the next stage is to **finish the preparation for teaching the selected courses**.  
 
+I will keep adding example projects and put them here : [Project examples](/projectexamples/README.md)
 
 ## case1 : app
 You are a basketball coach and have recorded the basic information of your players in a Google Sheet (Excel). This includes their performance in various skill tests (e.g., shuttle run, standing long jump, running jump reach), physical information, and training suggestions. We share the data through Google Sheets and develop a webpage to display this content (similar to the player ability pages in Football Manager). You can get a visual understanding from the page below : [Display the radar chart using the Chart.js charting tool](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html).  
